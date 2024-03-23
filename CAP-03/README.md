@@ -1,49 +1,49 @@
 # Questões capítulo 03
 ### Exercicios propostos
 
-1. Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
+01. Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
 
-2. Faça um programa que receba três notas, calcule e mostre a média aritmética.
+02. Faça um programa que receba três notas, calcule e mostre a média aritmética.
 
-3. Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada.
+03. Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada.
 
-4. Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%.
+04. Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%.
 
-5. Faça um programa que receba o salário de um funcionário e o percentual de aumento, calcule e mostre o valor do aumento e o novo salário.
+05. Faça um programa que receba o salário de um funcionário e o percentual de aumento, calcule e mostre o valor do aumento e o novo salário.
 
-6. Faça um programa que receba o salário base de um funcionário, calcule e mostre o salário a receber, sabendo-se que o funcionário tem gratificação de 5% sobre o salário base e paga imposto de 7% também sobre o salário base.
+06. Faça um programa que receba o salário base de um funcionário, calcule e mostre o salário a receber, sabendo-se que o funcionário tem gratificação de 5% sobre o salário base e paga imposto de 7% também sobre o salário base.
 
-7.Faça um programa que receba o salário base de um funcionário, calcule e mostre seu salário a receber, sabendo-se que o funcionário tem gratificação de R$ 50 e paga imposto de 10% sobre o salário base.
+07. Faça um programa que receba o salário base de um funcionário, calcule e mostre seu salário a receber, sabendo-se que o funcionário tem gratificação de R$ 50 e paga imposto de 10% sobre o salário base.
 
-8.Faça um programa que receba o valor de um depósito e o valor da taxa de juros, calcule e mostre o valor do rendimento e o valor total depois do rendimento.
+08. Faça um programa que receba o valor de um depósito e o valor da taxa de juros, calcule e mostre o valor do rendimento e o valor total depois do rendimento.
 
-9. Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base * altura)/2.
+09. Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base * altura)/2.
 
-10.Faça um programa que calcule e mostre a área de um círculo. Sabe-se que: Área = p * R2.
+10. Faça um programa que calcule e mostre a área de um círculo. Sabe-se que: Área = p * R2.
 
-11.Faça um programa que receba um número positivo e maior que zero, calcule e mostre:
+11. Faça um programa que receba um número positivo e maior que zero, calcule e mostre:
 
- a) o número digitado ao quadrado;
+a) o número digitado ao quadrado;
  
- b) o número digitado ao cubo;
+b) o número digitado ao cubo;
  
- c) a raiz quadrada do número digitado;
+c) a raiz quadrada do número digitado;
  
- d) a raiz cúbica do número digitado.
+d) a raiz cúbica do número digitado.
 
 12. Faça um programa que receba dois números maiores que zero, calcule e mostre um elevado ao outro.
 
 13. Sabe-se que: pé = 12 polegadas; 1 jarda = 3 pés;1 milha = 1,760 jarda
 
-  Faça um programa que receba uma medida em pés, faça as conversões a seguir e mostre os resultados.
+Faça um programa que receba uma medida em pés, faça as conversões a seguir e mostre os resultados.
 
-   a) polegadas;
+a) polegadas;
 
-   b) jardas;
+b) jardas;
 
-   c) milhas.
+c) milhas.
 
-14.Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre:
+14. Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre:
 
 a) a idade dessa pessoa;
 
@@ -79,7 +79,7 @@ d) o salário a receber equivale ao salário bruto menos o imposto.
 que distância a escada deve estar da parede. A pessoa deve fornecer o tamanho da escada e a altura em que deseja pregar o quadro.
 Lembre-se de que o tamanho da escada deve ser maior que a altura que se deseja alcançar.
 
-22.Sabe-se que o quilowatt de energia custa um quinto do salário mínimo. Faça um programa que receba o valor do salário mínimo e a quantidade de quilowatts consumida por uma residência. Calcule e mostre:
+22. Sabe-se que o quilowatt de energia custa um quinto do salário mínimo. Faça um programa que receba o valor do salário mínimo e a quantidade de quilowatts consumida por uma residência. Calcule e mostre:
 
 a) o valor de cada quilowatt;
 
@@ -95,7 +95,7 @@ b) a parte fracionária desse número;
 
 c) o arredondamento desse número.
 
-Faça um programa que receba uma hora formada por hora e minutos (um número real), calcule e mostre a hora digitada apenas em minutos. Lembre-se de que:
+24. Faça um programa que receba uma hora formada por hora e minutos (um número real), calcule e mostre a hora digitada apenas em minutos. Lembre-se de que:
 
 ■ para quatro e meia, deve-se digitar 4.30;
 
