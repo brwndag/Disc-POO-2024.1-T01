@@ -1,17 +1,17 @@
-## Questões capítulo 03
-
+# Questões capítulo 03
+### Exercicios propostos
 
 1. Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
 
-2.Faça um programa que receba três notas, calcule e mostre a média aritmética.
+2. Faça um programa que receba três notas, calcule e mostre a média aritmética.
 
-3.Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada.
+3. Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada.
 
- 4.Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%.
+4. Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%.
 
- 5.Faça um programa que receba o salário de um funcionário e o percentual de aumento, calcule e mostre o valor do aumento e o novo salário.
+5. Faça um programa que receba o salário de um funcionário e o percentual de aumento, calcule e mostre o valor do aumento e o novo salário.
 
- 6.Faça um programa que receba o salário base de um funcionário, calcule e mostre o salário a receber, sabendo-se que o funcionário tem gratificação de 5% sobre o salário base e paga imposto de 7% também sobre o salário base.
+6. Faça um programa que receba o salário base de um funcionário, calcule e mostre o salário a receber, sabendo-se que o funcionário tem gratificação de 5% sobre o salário base e paga imposto de 7% também sobre o salário base.
 
 7.Faça um programa que receba o salário base de um funcionário, calcule e mostre seu salário a receber, sabendo-se que o funcionário tem gratificação de R$ 50 e paga imposto de 10% sobre o salário base.
 
